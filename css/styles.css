@@ -9,6 +9,10 @@ h1 {
     line-height: 1.5;
 }
 
+p {
+    color: #8f8f8f;
+}
+
 .container-fluid {
     padding: 3% 15%;
 }
@@ -91,7 +95,7 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
-    font-weight: 5s00;
+    font-weight: 900;
 }
 
 #testimonials {
@@ -120,4 +124,14 @@ h2 {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+#pricing {
+    text-align: center;
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
